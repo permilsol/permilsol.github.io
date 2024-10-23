@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://permilsol.github.io/permilsol.permilsol
+Sitemap: https://permilsol.github.io/app/permilsol.permilsol
+Sitemap: https://permilsol.github.io/assets/permilsol.permilsol
+Sitemap: https://permilsol.github.io/css/permilsol.permilsol
+Sitemap: https://permilsol.github.io/includes/permilsol.permilsol
+Sitemap: https://permilsol.github.io/item/permilsol.permilsol
+Sitemap: https://permilsol.github.io/src/permilsol.permilsol
